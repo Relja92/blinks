@@ -1,4 +1,4 @@
-const proxyUrl = 'https://proxy.dial.to';
+const proxyUrl = 'https://blinks-proxy.solflare.com';
 
 export function proxify(url: string): URL {
   const baseUrl = new URL(url);
